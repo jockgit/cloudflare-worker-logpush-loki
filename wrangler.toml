@@ -1,6 +1,6 @@
 name = "cloudflare-worker-loki"
 main = "src/index.js"
-account_id = ""
+account_id = "619be86ad540dd03a3448fb25a99f515"
 workers_dev = true
 usage_model = "unbound"
 compatibility_date = "2022-08-01"
