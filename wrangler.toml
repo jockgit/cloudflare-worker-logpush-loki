@@ -6,6 +6,7 @@ workers_dev = true
 usage_model = "unbound"
 route = ""
 zone_id = "a3fa3c23b84c439073d6d40f8d9b8369"
+compatibility_date = "2023-07-05"
 
 [vars]
 lokiHost = "https://logs-prod-eu-west-0.grafana.net/loki/api/v1/push"
